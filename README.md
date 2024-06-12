@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... 
-- PLUS ()
-- G-POS ()
-- AutoCrypt RED TEAM Internship (2024.06 ~ 2024.09)
+🔭 I’m currently working on ... 
+- undergraduated student in POSTECH 
+- G-POS, Game dev society in POSTECH (2023.02 ~ )
+- PLUS, Postech Laboratory for Unix Security (2024.02 ~ )
+- AUTOCRYPT - RED TEAM Internship (2024.06 ~ 2024.09)
 </br>
 
-- 🌱 I’m currently learning ...
-
+🌱 I’m currently learning ...
+- Cryptography
+- Game Development
+- Car Hacking?
+</br>
