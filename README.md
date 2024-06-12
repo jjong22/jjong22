@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - PLUS ()
 - G-POS ()
 - AutoCrypt RED TEAM Internship (2024.06 ~ 2024.09)
+</br>
 
 - 🌱 I’m currently learning ...
 
