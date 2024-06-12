@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - undergraduated student in POSTECH 
 - G-POS, Game dev society in POSTECH (2023.02 ~ )
 - PLUS, Postech Laboratory for Unix Security (2024.02 ~ )
-- AUTOCRYPT - RED TEAM Internship (2024.06 ~ 2024.09)
+- AUTOCRYPT - RED TEAM Internship (2024.06 ~ 2024.08)
 - ~
 </br>
 
