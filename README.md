@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - Cryptography
 - Game Development
 - Car Hacking?
-</br>
