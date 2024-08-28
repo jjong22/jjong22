@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </br>
 
 🎮 I’m currently developing ...
-- To The Star : ~
+- To The Star : (2024.01 ~ 2024.02, 2024.06 ~ )
 - ~
