@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 
 
 🔎 I participated in ...
-- DEF CON 32, Car Hacking village CTF (as Autocrypt)
 - HITCON CTF 2024 (as Cold Fusion)
+- POKA CTF 2024 (as POSTECH)
+- DEF CON 32, Car Hacking village CTF (as Autocrypt)
+
