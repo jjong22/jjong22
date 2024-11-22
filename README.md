@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - G-POS, Game dev society in POSTECH (2023.02 ~ )
 - PLUS, Postech Laboratory for Unix Security (2024.02 ~ )
 - AUTOCRYPT - RED TEAM Internship (2024.06 ~ 2024.08)
-- ~
 </br>
 
 🌱 I’m currently learning ...
@@ -29,12 +28,10 @@ Here are some ideas to get you started:
 - Car Hacking
 - Game Development
 - Pixel Art
-- ~
 </br>
 
 🎮 I’m currently developing ...
 - To The Star : (2024.01 ~ 2024.02, 2024.06 ~ )
-- ~
 </br>
 
 
