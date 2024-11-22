@@ -26,13 +26,18 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 - Cryptography
-- Car Hacking?
+- Car Hacking
 - Game Development
 - Pixel Art
 - ~
-
 </br>
 
 🎮 I’m currently developing ...
 - To The Star : (2024.01 ~ 2024.02, 2024.06 ~ )
 - ~
+</br>
+
+
+🔎 I participated in ...
+- DEF CON 32, Car Hacking village CTF (as Autocrypt)
+- HITCON CTF 2024 (as Cold Fusion)
