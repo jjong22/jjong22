@@ -16,27 +16,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on ... 
-- undergraduated student in POSTECH 
-- G-POS, Game dev society in POSTECH (2023.02 ~ )
-- PLUS, Postech Laboratory for Unix Security (2024.02 ~ )
-- AUTOCRYPT - RED TEAM Internship (2024.06 ~ 2024.08)
+#### 🔭 I’m currently working on ... 
+- undergraduated student in POSTECH CSE
+- [G-POS], Game dev society in POSTECH (2023.02 ~ )
+- [PLUS], Postech Laboratory for Unix Security (2024.02 ~ )
+- [AUTOCRYPT] - RED TEAM Internship (2024.06 ~ 2024.08)
+- [Compuyer Securiry Lab @POSTECH] - Undergrad intern (2025.01 ~ )
 </br>
 
-🌱 I’m currently learning ...
-- Cryptography
-- Car Hacking
+#### 🌱 I’m currently learning ...
 - Game Development
 - Pixel Art
+- Hacking
 </br>
 
-🎮 I’m currently developing ...
-- To The Star : (2024.01 ~ 2024.02, 2024.06 ~ )
+#### 🎮 I’m currently developing/developed ...
+- [To The Star] (2024.01 ~ )
+- [Runepago] (2025 UNIJAM, as Art)
+- [Universal scene maker for simulator]
 </br>
 
+#### 🔎 I participated in ...
+Game Dev
+- 2024 NDM (Nexon Dream Members)
+- 2024 UNICON 
+- 2025 UNIJAM
 
-🔎 I participated in ...
+Hacking
 - HITCON CTF 2024 (as Cold Fusion)
 - POKA CTF 2024 (as POSTECH)
 - DEF CON 32, Car Hacking village CTF (as Autocrypt)
+</br>
 
+#### 📫 How to reach me: ...
+- mail: `jjong22.busyless@gmail.com`
+- discord: `jjong_22`
+- website: [https://jjong22.github.io/]
+
+[G-POS]: https://github.com/GPOS-Gamemakers-in-POSTECH
+[PLUS]: https://plus.or.kr/
+[AUTOCRYPT]: https://autocrypt.co.kr/
+[Compuyer Securiry Lab @POSTECH]: https://compsec.postech.ac.kr/
+[To The Star]: https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to_the_STAR
+[Runepago]: https://github.com/jjong22/Runepago
+[Universal scene maker for simulator]: https://github.com/jjong22/simulation-scene-maker
+[https://jjong22.github.io/]: https://jjong22.github.io/
