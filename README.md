@@ -11,8 +11,8 @@ I'm undergraduated student in POSTECH CSE. </br>
 
 ## 🌱 I’m currently learning ...
 - Game Programing
-- Pixel Art
-- Hacking
+- Game Art (Pixel Art and Animation)
+- Hacking (Cryptogrphy)
 
 ## 🎮 I’m currently developing/developed ...
 - [To The Star] (2024.01 ~ )
