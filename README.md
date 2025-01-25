@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Game Development
 - Pixel Art
 - Hacking
-- 
+
 #### 🎮 I’m currently developing/developed ...
 - [To The Star] (2024.01 ~ )
 - [Runepago] (2025 UNIJAM, as Art)
@@ -38,6 +38,7 @@ Game Dev
 - 2024 NDM (Nexon Dream Members)
 - 2024 UNICON 
 - 2025 UNIJAM
+
 Hacking
 - HITCON CTF 2024 (as Cold Fusion)
 - POKA CTF 2024 (as POSTECH)
