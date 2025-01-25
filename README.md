@@ -22,31 +22,26 @@ Here are some ideas to get you started:
 - [PLUS], Postech Laboratory for Unix Security (2024.02 ~ )
 - [AUTOCRYPT] - RED TEAM Internship (2024.06 ~ 2024.08)
 - [Compuyer Securiry Lab @POSTECH] - Undergrad intern (2025.01 ~ )
-</br>
 
 #### 🌱 I’m currently learning ...
 - Game Development
 - Pixel Art
 - Hacking
-</br>
-
+- 
 #### 🎮 I’m currently developing/developed ...
 - [To The Star] (2024.01 ~ )
 - [Runepago] (2025 UNIJAM, as Art)
 - [Universal scene maker for simulator]
-</br>
 
 #### 🔎 I participated in ...
 Game Dev
 - 2024 NDM (Nexon Dream Members)
 - 2024 UNICON 
 - 2025 UNIJAM
-
 Hacking
 - HITCON CTF 2024 (as Cold Fusion)
 - POKA CTF 2024 (as POSTECH)
 - DEF CON 32, Car Hacking village CTF (as Autocrypt)
-</br>
 
 #### 📫 How to reach me: ...
 - mail: `jjong22.busyless@gmail.com`
