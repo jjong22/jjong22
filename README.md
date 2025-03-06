@@ -7,8 +7,8 @@ I'm undergraduated student in POSTECH CSE. </br>
 - Game Progarming
 - Computer Security 
 - Game Simulation
-- Pixel Art
 - Directing Game/Manga/Anime
+- Pixel Art
 
 ## Education
 - POSTECH, B.S. in CSE (2023.02 ~ )
