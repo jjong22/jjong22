@@ -55,7 +55,7 @@ I'm undergraduated student in POSTECH CSE. </br>
 [G-POS]: https://github.com/GPOS-Gamemakers-in-POSTECH
 [PLUS]: https://plus.or.kr/
 [AUTOCRYPT]: https://autocrypt.co.kr/
-[Computer Security Lab @POSTECH]: https://compsec.postech.ac.kr/
+[Computer Security Lab @ POSTECH]: https://compsec.postech.ac.kr/
 [To The Star]: https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to_the_STAR
 [Runepago]: https://github.com/jjong22/Runepago
 [Universal scene maker for simulator]: https://github.com/jjong22/simulation-scene-maker
