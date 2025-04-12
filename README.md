@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 ## jjong22
 
 Hi, I'am **Jaeyoung chun**, known as `jjong22`.  
