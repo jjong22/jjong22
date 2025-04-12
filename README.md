@@ -3,7 +3,6 @@
 Hi, I'am **Jaeyoung chun**, known as `jjong22`.  
 I'm an undergraduate student majoring in Computer Science & Engineering at **POSTECH**.
 
----
 
 ## Interested fileds
 - Game Progarming & Simulation
@@ -11,19 +10,16 @@ I'm an undergraduate student majoring in Computer Science & Engineering at **POS
 - Pixel Art & Game Aesthetics  
 - Directing Game/Manga/Anime
 
----
 
 ## Education
 - **POSTECH**, B.S. in CSE (2023.02 - )
 - **Sema High School** (2020.02 - 2023.02)
 
----
 
 ## Work Experience
 - [Computer Security Lab @ POSTECH] - Undergrad Intern (2025.01 - )
 - [AUTOCRYPT] - RED TEAM Internship (2024.06 - 2024.08)
 
----
 
 ## Activities
 
@@ -49,7 +45,6 @@ I'm an undergraduate student majoring in Computer Science & Engineering at **POS
 - [Dreamhack] - `jjong22`
 - [CryptoHack] - `jjong22`
 
----
 
 ## Honors & Awards
 - 2025 SSU CTF (MINUS)
@@ -57,14 +52,12 @@ I'm an undergraduate student majoring in Computer Science & Engineering at **POS
 - 2024 POSTECH-KAIST Science War (POSTECH)
 - DEF CON 32, Car Hacking village CTF (Autocrypt)
 
----
 
 ## Contect
 - mail: `jjong22.busyless@gmail.com`
 - discord: `jjong_22`
 - website: [https://jjong22.github.io/]
 
----
 
 <!-- 링크 모음 -->
 
