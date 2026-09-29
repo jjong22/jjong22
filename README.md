@@ -3,57 +3,70 @@
 Hi, I'am **Jaeyoung chun**, known as `jjong22`.  
 I'm an undergraduate student majoring in Computer Science & Engineering at **POSTECH**.
 
+## 🛠 Tech Stack
+- **Game Dev & Graphics:** Unity, C#, C++, OpenGL
+- **Programming:** Python, C, Scala
+- **Security & Infra:** Cryptography, Docker, WSL
 
-## Interested fileds
-- Game Progarming & Simulation
+## 🎯 Interested fields
+- Game Programming & Simulation
+- VR/XR Development & Interaction 
+- Pixel Art & Game Directing
 - Computer Security & Cryptography
-- Pixel Art & Game Aesthetics  
-- Directing Game/Manga/Anime
+
+---
+
+## 🔸 Games I've Made
+### [To The Star] (2024.01 - 2025.02)
+> **2D Metroidvania-style Adventure Game**
+
+![To The Star](asset/tothestar.gif)
+
+- **Tech:** Unity, C#, Aseprite
+- **Key Features:** 
+    - **Animation & Visuals:** Designed and implemented modular part-based character animations, tilemap palettes, and particle effects (e.g., Hammer strikes).
+    - **Scene Flow & Directing:** Directed in-game cinematics including the title sequence, start/ending animations, and screen transition effects.
+    - **Debugging:** Identified and resolved bugs related to camera systems and player movement, in addition to animation issues.
+
+
+### [Runepago] (2025 UNIJAM)
+> **Survivors-like Action Game**
+
+![Runepago](asset/runepago.gif)
+
+- **Tech:** Unity, Aseprite
+- **Key Contributions:**
+  - **Animation & Visuals:** Implemented dynamic combat visual effects (e.g., meteor, bomb fragments) and configured complex animator state machines with custom parameters.
+  - **Scene Flow & Directing:** Orchestrated the core game flow by building the Start, Game Over, and Ending scenes, fully synchronized with UI and BGM.
 
 
 ## Education
 - **POSTECH**, B.S. in CSE (2023.02 - )
-- **Sema High School** (2020.02 - 2023.02)
 
 
 ## Work Experience
-- [Computer Security Lab @ POSTECH] - Undergrad Intern (2025.01 - )
-- [AUTOCRYPT] - RED TEAM Internship (2024.06 - 2024.08)
+- **[Computer Security Lab @ POSTECH]** - Undergrad Intern (2025.01 - 2025.07)
+- **[AUTOCRYPT]** - RED TEAM Internship (2024.06 - 2024.08)
 
 
 ## Activities
 
 ### 🔸 Club
-- [G-POS], Game dev society in POSTECH (2023.02 ~ )
-- [PLUS], Postech Laboratory for Unix Security (2024.02 ~ )
+- **[G-POS]**, Game dev society in POSTECH (2023.02 ~ )
+- **[PLUS]**, Postech Laboratory for Unix Security (2024.02 ~ )
 
 ### 🔸 Game Development
-- 2025 NDM
+- 2025 Nexon Dream Members
 - 2025 UNIJAM
 - 2024 UNICON 
-- 2024 NDM
-
-### 🔸 Games I've Made
-- [To The Star] (2024.01 - )
-- [Runepago] (2025 UNIJAM)
-
-### 🔸Research
-- [Universal scene maker for simulator]
+- 2024 Nexon Dream Members
 
 ### 🔸 Study
 - [Baekjoon] - `jason9751`
 - [Dreamhack] - `jjong22`
 - [CryptoHack] - `jjong22`
 
-
-## Honors & Awards
-- 2025 SSU CTF (MINUS)
-- HITCON CTF 2024 (Cold Fusion)
-- 2024 POSTECH-KAIST Science War (POSTECH)
-- DEF CON 32, Car Hacking village CTF (Autocrypt)
-
-
-## Contect
+## Contact
 - mail: `jjong22.busyless@gmail.com`
 - discord: `jjong_22`
 - website: [https://jjong22.github.io/]
@@ -66,7 +79,7 @@ I'm an undergraduate student majoring in Computer Science & Engineering at **POS
 [AUTOCRYPT]: https://autocrypt.co.kr/
 [Computer Security Lab @ POSTECH]: https://compsec.postech.ac.kr/
 [To The Star]: https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to_the_STAR
-[Runepago]: https://github.com/jjong22/Runepago
+[Runepago]: https://github.com/1Seong/unijam2025
 [Universal scene maker for simulator]: https://github.com/jjong22/simulation-scene-maker
 [https://jjong22.github.io/]: https://jjong22.github.io/
 
